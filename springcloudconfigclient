@@ -1,0 +1,4 @@
+test:
+  message: girish
+server:
+  port: 0
